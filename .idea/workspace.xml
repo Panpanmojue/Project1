@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca9bab68-3780-4086-8906-123b6212a34b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoJAHgBNvvw934G9c9SaLbdlUq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\adol\Desktop\xmjproject1" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\src" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\images" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\CSS" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\HTML" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\adol\Desktop\xmjproject1\images" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\travel-images" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\travel-images\icons" />
+      <recent name="C:\Users\adol\Desktop\xmjproject1\JavaScript" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca9bab68-3780-4086-8906-123b6212a34b" name="Default Changelist" comment="" />
+      <created>1585499367191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585499367191</updated>
+      <workItem from="1585499368542" duration="83000" />
+      <workItem from="1585499514641" duration="356000" />
+      <workItem from="1585526538739" duration="1380000" />
+      <workItem from="1586072642576" duration="2805000" />
+      <workItem from="1586100599844" duration="280000" />
+      <workItem from="1586100930376" duration="2803000" />
+      <workItem from="1586153058008" duration="17466000" />
+      <workItem from="1586233069361" duration="9114000" />
+      <workItem from="1586304287703" duration="889000" />
+      <workItem from="1586392853278" duration="11786000" />
+      <workItem from="1586502999234" duration="26174000" />
+      <workItem from="1586582073760" duration="15689000" />
+      <workItem from="1586615262177" duration="3938000" />
+      <workItem from="1586623087532" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586270767126">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586270767126" />
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586544483970">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1586544483970" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1586274348663">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586274348663" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585499376532">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1585499376532" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1586582076169">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586582076169" />
+    <state x="319" y="187" width="713" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586544753864">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="319" y="187" width="713" height="306" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680@0.0.1280.680" timestamp="1586544753864" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586612670390">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586612670390" />
+  </component>
+</project>

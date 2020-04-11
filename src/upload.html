@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="../CSS/upload.css">
+    <meta charset="UTF-8">
+    <title>Upload</title>
+</head>
+<body>
+<ul class="navigation">
+    <header>
+        <h1>Welcome to the fantasy world!</h1>
+    </header>
+    <li><a href="home.html" >Home</a></li>
+    <li><a href="browser.html">Browser</a></li>
+    <li><a href="search.html">Search</a></li>
+    <div class="dropDown">
+        <a href="#" class="dropBto">My account</a>
+        <div class="dropContent">
+            <a href=""> <img src="../images/icons/upload.png" width="20" height="20" />Upload</a>
+            <a href="my_photo.html"><img src="../images/icons/myPhoto.png" width="20" height="20" />MyPhoto</a>
+            <a href="favour.html"><img src="../images/icons/favour.png" width="20" height="20" />MyFavour</a>
+            <a href="../index.html"><img src="../images/icons/logIn.png" width="20" height="20" />LogIn</a>
+        </div>
+    </div>
+</ul>
+
+<form action="#" method="post">
+    <fieldset class="whole">
+        <legend>Upload New Picture</legend>
+        <div class="uploadPic">
+            <img id="PicFromUser" src=""/>
+            <p id="placeholder">No Picture Uploaded</p>
+            <div class="wrap">
+                <span>UPLOAD</span>
+                <input type="file" name="photoUpload" id="file">
+            </div>
+        </div>
+
+        <div class="main">
+            <fieldset class="info">
+                <h2>Picture Title:</h2>
+                <div>
+                    <label>
+                        <input type="text" id="title">
+                    </label>
+                </div>
+            </fieldset>
+            <br/><br/>
+            <fieldset class="info">
+                <h2>Picture Description:</h2>
+                <div>
+                    <label>
+                        <textarea id="description"></textarea>
+                    </label>
+                </div>
+            </fieldset>
+            <br/><br/>
+            <fieldset class="info">
+                <h2>Photo in which Country:</h2>
+                <div>
+                    <label>
+                        <input type="text" id="country">
+                    </label>
+                </div>
+            </fieldset>
+            <br/><br/>
+            <fieldset class="info">
+                <h2>Photo in which City:</h2>
+                <div>
+                    <label>
+                        <input type="text" id="city">
+                    </label>
+                </div>
+            </fieldset>
+            <br/><br/>
+        </div>
+        <div id="bt">
+            <input type="button" value="SUBMIT" name="UploadSubmit" onclick="window.location.href='MyPhotos.html';alert('It has been uploaded');">
+        </div>
+    </fieldset>
+</form>
+</body>
+<script type="text/javascript" src="../JavaScript/upload.js"></script>
+<footer>
+    Copyright.©2019-2021 PanpanMojue's world.All rights reserved.备案号：沪ILOVEPJ备19302010081号-1
+</footer>
+</html>

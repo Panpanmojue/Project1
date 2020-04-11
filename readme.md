@@ -30,7 +30,7 @@ Project1设计文档
 1.这次的界面设计我采用的主色调是莫兰迪色系，淡淡的灰绿色和灰蓝色加上灰色/黑色的导航栏/页脚看起来比较和谐<br/>
 2.且不同页面的很多内容是相似的，所以对于边框、按钮等采取了一样的样式设计，感觉这样看起来会比较简约美观，不至于让人眼花缭乱<br/>
 3.当光标移动到链接上时，颜色变为与之前对比鲜明的橙黄色，这样比较醒目。
-`具体的网页截图在`https://github.com/Panpanmojue/Project1/images/samples中
+`具体的网页截图在`https://github.com/Panpanmojue/Project1/images/samples 里
 
 ## 对pj1的想法<br/>
 ----
